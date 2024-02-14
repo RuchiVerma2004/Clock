@@ -27,7 +27,5 @@ This project demonstrates a simple analog clock and a digital clock implemented 
 - You can customize the appearance of the clocks by modifying the CSS styles in the `style.css` file.
 - Feel free to adjust the layout, colors, fonts, etc., to match your preferences.
 
-## License
 
-This project is licensed under the MIT License. Feel free to use and modify it according to your needs.
 
